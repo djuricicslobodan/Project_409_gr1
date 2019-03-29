@@ -2,3 +2,5 @@
 
 Ovo je vlasnistvo prve grupe.
 aaaa
+123
+2
